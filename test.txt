@@ -1,3 +1,8 @@
 This is a test file
-manut
-This is the second line
+
+
+This is the HEADER
+
+this is the CONTENT
+
+this is the FOOTER
