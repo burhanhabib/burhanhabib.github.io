@@ -1,4 +1,10 @@
 This is a test file
+
+
+This is the HEADER
+
 manut
-This is the third line
+
+this is the FOOTER
+
 And fourth
